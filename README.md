@@ -31,9 +31,9 @@ Hi!  I work as a MERN stack developer. Self-motivated and quick learner, experie
 
 ## Languages and Tools  
 <div align="center">  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />  
   
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" /> 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />
   <img style="margin: 10px" src="https://iconape.com/wp-content/files/an/351546/png/tailwind-css-logo.png" alt="Bootstrap" height="25" /> 
   
