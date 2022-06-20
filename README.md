@@ -67,22 +67,9 @@ Hi!  I work as a MERN stack developer. Self-motivated and quick learner, experie
 </td></tr></table>  
 
 <br/>  
-
-  
-
 <br/>  
-
-  
-
 <br/>  
-
-  
-
 <br/>  
-
-<a href="https://github.com/https://github.com/mushfiqueyeasir" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 
 <a href="https://www.facebook.com/mushfique.yeasir.ifat/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
