@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" alt="Header" />
+</div>
+
 # 👋 Hi there, I'm Mushfique Yeasir
 
 <div align="center">
@@ -75,18 +80,6 @@ I'm a passionate **MERN Stack Developer** with extensive experience in building 
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mushfiqueyeasir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiqueyeasir&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</div>  
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mushfiqueyeasir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
