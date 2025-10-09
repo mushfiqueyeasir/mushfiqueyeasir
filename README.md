@@ -1,8 +1,3 @@
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" alt="Header" />
-</div>
-
 # 👋 Hi there, I'm Mushfique Yeasir
 
 <div align="center">
@@ -19,7 +14,7 @@
 
 I'm a passionate **MERN Stack Developer** with extensive experience in building scalable web applications. I love creating innovative solutions and working on challenging projects that make a real impact.
 
-- 🎯 **Specialized in**: React, Next.js, TypeScript, Node.js, MongoDB
+- 🎯 **Specialized in**: React, Next.js, Tailwind, TypeScript, Node.js, MongoDB
 - 🌍 **Based in**: Dhaka, Bangladesh
 - 💼 **Available for**: Remote work opportunities
 - 🎓 **Education**: B.Sc. in Computer Science & Engineering from East West University (2021)
@@ -105,5 +100,5 @@ I'm a passionate **MERN Stack Developer** with extensive experience in building 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E87FB&height=100&section=footer" alt="Footer" />
 </div>
